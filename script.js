@@ -31,6 +31,6 @@ function checkAnswer(){
         response.innerHTML = "Correct!";
         setNumbers();
     }else{
-        response.innerHTML = "Inorrect!";
+        response.innerHTML = "Incorrect!";
     }
 }
